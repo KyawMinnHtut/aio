@@ -14,6 +14,6 @@
     {"channelName":"RTK1","logo":"https://i.ibb.co/tKZqSw2/World-CUP-22.jpg","link":"DnMPPSNmNSSNceBE5d7BE6zYNQeeJuhgcx0LBcE0WX0="},
     {"channelName":"VTV2","logo":"https://i.ibb.co/tKZqSw2/World-CUP-22.jpg","link":"DnMPPSNmNXnQMatfqIbDHLLHbFyBe7shdwsLEZtvXAiU5k29X2ftfxPRBWso8ZXs7PNbhtjuSE2LByFTmerFLw=="},
     {"channelName":"VTV3","logo":"https://i.ibb.co/tKZqSw2/World-CUP-22.jpg","link":"DnMPPSNmNXnQMatcppyCG6ydbAGYJvQ5cEIDA4EpTBmRoE2bZ1CnPArOEE0SzLCqnvNbhtizViHwZGIN36f/LA=="},
-    {"channelName":"VTV5","logo":"\"https://i.ibb.co/tKZqSw2/World-CUP-22.jpg","link":"DnMPPSNmNXnQMatfqIbDHLLHbFyBe7shdwsLEZtvfCi04T2FdynkfxvbHV0N0Zzp8/IbkIXwDiq1Qgc2opf1Jg=="},
+    {"channelName":"VTV5","logo":"https://i.ibb.co/tKZqSw2/World-CUP-22.jpg","link":"DnMPPSNmNXnQMatfqIbDHLLHbFyBe7shdwsLEZtvfCi04T2FdynkfxvbHV0N0Zzp8/IbkIXwDiq1Qgc2opf1Jg=="},
     {"channelName":"VTV6","logo":"https://i.ibb.co/tKZqSw2/World-CUP-22.jpg","link":"DnMPPSNmNXnQMatfqIbDHLLHbFyBe7shdwsLEZtvfCi04j2FdynkfxvbHV0N0Zzp8/IbkIXwDiq1Qgc2opf1Jg=="}
 ]
