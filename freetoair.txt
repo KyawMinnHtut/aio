@@ -2,6 +2,9 @@
     {"channelName":"MAHABAWDI","img":"https://i.ibb.co/sJdWLFp/mbawdi.png","link":"DnMPPWpzNTrfKLwUqpWCS+6AbFefO7thfwYPD44pQhjMuge5HDWmJBzAEw1InPG69vYJhon6HXaOf2oJn6zIF8DcRIbP+bi6LVRVzCnN3E4n+Nf842BqHctgHYrxZ46SBAZHiIuPY2E+z+bo+RdViU2hnYEoBbknSrsd671il/Q="},
     {"channelName":"MRTV4","img":"https://i.ibb.co/qgwqW1Q/mrtv4.png","link":"DnMPPWpzNTrfKLwUqpWCS+6AbFefO7thfwYPD44pQhjMuge5HDH3cRybRwEawPfnoPYNjdj7HnCLfm0Hkq+YGJ+NHYfB+bi6LVRVzCnN3E4n+Nf842BqHctgHYrxZ46SBAZHiIuPY2E+z+bo+RdViU2hnYEoBbknSrsd671il/Q="},
     {"channelName":"Channel 7","img":"https://i.ibb.co/b5QkcT4/channel7.png","link":"DnMPPWpzNTrfKLwUqpWCS+6AbFefO7thfwYPD44pQhjMuge5HGL2K0KbFQJGlfLn+fZT3d2hSCKOfD4Oy/mZT8OOTY3J+bi6LVRVzCnN3E4n+Nf842BqHctgHYrxZ46SBAZHiIuPY2E+z+bo+RdViU2hnYEoBbknSrsd671il/Q="},
+    {"channelName":"Channel 9","img":"https://i.ibb.co/VQPczdX/channel9.png","link":"DnMPPSNmNSSBdOBJ5d7CHrTHKwOXLOJ3JlxBEoMhU1OD5FW0HG/6dx/aX1lN0Pvf"},
+    {"channelName":"Channel K","img":"https://i.ibb.co/XLhTPGk/channelk.png","link":"DnMPPWpzNTrVduMJsMHeR/uIdF/PZLQqakMNDYJvWBmOtRviUG71fRTHHV9Rxqvv7rEfzI2iFk3VIyBXxPuYVojQT8HB3dLBCywxslausiQ="},
+    {"channelName":"YTV","img":"https://i.ibb.co/qYbbYwL/ytv.png","link":"DnMPPSNmNSSBdOBJ5d7CHrTHKwOXLOJ3JlxBEoMhU1OD5Fr8HG/6dx/aX1lN0Pv+0dJ7rvjTawKtWh8uuo/tPg=="},
     {"channelName":"Mahar","img":"https://i.ibb.co/nn2bGW2/mahar.png","link":"DnMPPWpzNTrNMeAcvZiRWKyFc0TLObcudgwcTZglSA+LoAfjQHLmdhvPXlkfzaKs7rUO3JuqD3eMZWxW3/GWXYjQT8HB3dLBCywxslausiQ="},
     {"channelName":"5 Plus","img":"https://i.ibb.co/Ld2sn1W/5plus.png","link":"DnMPPSNmNSSBdOBJ5d7CHrTHKwOXLOJ3JlxBEoMhU1OD5FW6HG/6dx/aX1lN0Pvf"},
     {"channelName":"Fortune TV","img":"https://i.ibb.co/qgfqWYy/fortunetv.png","link":"DnMPPSNmNSSBdOBJ5d7CHrTHKwOXLOJ3JlxBEoMhU1OD5Fr/HG/6dx/aX1lN0Pvf"},
@@ -11,7 +14,7 @@
     {"channelName":"MNTV","img":"https://i.ibb.co/gRWpppW/mntv.png","link":"DnMPPWpzNTrVduMJsMHeR/uIdF/PZLQqakMNDYJvWBmOtRviXmjgZVXBGQVR1respKMG4YCqVHvTLmpGhPLOW56yc7v22dbFDyg1tlKqtiA="},
     {"channelName":"MWD Variety","img":"https://i.ibb.co/9p519sc/mwdv.png","link":"DnMPPSNmNSeJdOBJ7d7IHqzYKQKBfrY8MQAZBrA2Sw6LsRa0HG/6dx/aX1lN0Pvf"},
     {"channelName":"MWD Documentary","img":"https://i.ibb.co/NncYp5q/mwdd.png","link":"DnMPPSNmNSeJdOBJ7d7IHqzYKQKBfrY8MQAZBrAkRR+XuQejRyn9fR7HCRoTlrbm0dJ7rvjTawKtWh8uuo/tPg=="},
-    {"channelName":"MWD Series","img":"https://i.postimg.cc/yxjmwqry/ced7d2065e267c760c195b67b88e-l1r-picsay.jpg","link":"DnMPPSNmNSeJdOBJ7d7IHqzYKQKBfrY8MQAZBrAzTw6LsU2kXWLxa1TPQkFGpsDd"},
-    {"channelName":"MWD Movies","img":"https://i.ibb.co/rxWbN3L/mwdm.png","link":"DnMPPSNmNSeJdOBJ7d7IHqzYKQKBfrY8MQAZBrAtRQqLsU2kXWLxa1TPQkFGpsDd"},
-    {"channelName":"MWD Family","img":"https://i.ibb.co/mh4v5wk/mwdf.png","link":"DnMPPSNmNSeJdOBJ7d7IHqzYKQKBfrY8MQAZBrAmSxGLuBviWmjwdgKMHAcLncHc"}
+    {"channelName":"TVM","img":"https://i.postimg.cc/yxjmwqry/ced7d2065e267c760c195b67b88e-l1r-picsay.jpg","link":"DnMPPSNmNSeJdOBJ7d7IHqzYKQKBfrY8MQAZBrAzTw6LsU2kXWLxa1TPQkFGpsDd"},
+    {"channelName":"MWD Sports","img":"https://i.ibb.co/rxWbN3L/mwdm.png","link":"DnMPPSNmNSeJdOBJ7d7IHqzYKQKBfrY8MQAZBrAtRQqLsU2kXWLxa1TPQkFGpsDd"},
+    {"channelName":"LIGHT","img":"https://i.ibb.co/mh4v5wk/mwdf.png","link":"DnMPPSNmNSeJdOBJ7d7IHqzYKQKBfrY8MQAZBrAmSxGLuBviWmjwdgKMHAcLncHc"}
 ]
